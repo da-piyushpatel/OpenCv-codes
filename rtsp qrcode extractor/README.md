@@ -2,4 +2,4 @@
 
 Simple code just replace the url in the code and run the command
 
-> g++ main.cpp  `pkg-config --libs opencv` -lzbar
+> g++ main.cpp  ``` pkg-config --libs opencv``` -lzbar
